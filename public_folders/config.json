@@ -16,7 +16,8 @@
   "boot": "auto",
   "map":
   [
-    "media:ro"
+    "media:ro",
+    "homeassistant_config:ro"    
   ],
   "ports":
   {
